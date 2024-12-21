@@ -47,3 +47,11 @@ This is a repository for algorithm learning.
 
 ### 第一部分
 ####  贪心算法
+这部分主要是数学能力了，更多的时候是一种直觉感受。
+上例题：
+    1. [(https://www.acwing.com/problem/content/4170/)]活动安排
+        代码见文件：贪心算法/activity_arrange.cpp
+    2. [(https://www.acwing.com/problem/content/description/4171/)]种树
+        代码见文件：贪心算法/plant_tree.cpp
+    3. [(https://www.acwing.com/problem/content/description/4172/)]喷水装置
+        代码见文件：贪心算法/water_spray.cpp
