@@ -13,7 +13,6 @@ int main()
     for(int i=1;i<=h;i++)
         cin>>a[i].b>>a[i].e>>a[i].t;
     //按区间末端排序
-    //顺便小小秀一下lamda表达式
     sort(a+1,a+h+1,[&](line x,line y){return x.e<y.e;});
     for(int i=1;i<=h;i++)
     {

@@ -63,3 +63,5 @@ This is a repository for algorithm learning.
   4. [加工生产调度](https://www.luogu.com.cn/problem/P1248)
         代码见文件：贪心算法/johnson.cpp  
     这一题有很多的题解都是错的，特别是洛谷上前面四篇题解有三篇都被hack掉了，关键点在于通过数学分析得到的那个表达式并不具有传递性，看原论文就知道正确的操作流程了。
+  5. [智力大冲浪](https://www.luogu.com.cn/problem/P1230)  
+  代码见文件：贪心算法/intellectual_storm.cpp
