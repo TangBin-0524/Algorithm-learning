@@ -47,7 +47,7 @@ This is a repository for algorithm learning.
 ### 第一部分
 ####  贪心算法
 这部分主要是数学能力了，更多的时候是一种直觉感受加严谨的推导。  
-题1，2，3都是与区间有关的贪心，题4是Johnson算法的模板题。关于Johnson算法的证明我找到了远古时期的那篇Johnson的论文，放在"贪心算法/johnson.pdf"，题5是带限期和罚款的单位时间任务调度问题。
+题1，2，3都是与区间有关的贪心，题4是Johnson算法的模板题。关于Johnson算法的证明我找到了远古时期的那篇Johnson的论文，放在"贪心算法/johnson.pdf"，题5是带限期和罚款的单位时间任务调度问题。第1~5题都是与区间有关的贪心，题6是一道挂着贪心算法帽子的数学推导题。
 
 上题：
 
@@ -65,3 +65,5 @@ This is a repository for algorithm learning.
     这一题有很多的题解都是错的，特别是洛谷上前面四篇题解有三篇都被hack掉了，关键点在于通过数学分析得到的那个表达式并不具有传递性，看原论文就知道正确的操作流程了。
   5. [智力大冲浪](https://www.luogu.com.cn/problem/P1230)  
   代码见文件：贪心算法/intellectual_storm.cpp
+  6. [糖果传递](https://www.luogu.com.cn/problem/P2512)
+    代码见文件：贪心算法/candy_transfer.cpp
